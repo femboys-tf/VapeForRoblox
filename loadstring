@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/supercellgamer/VapeForRoblox-Fork/main/NewMainScript.lua", true))()
