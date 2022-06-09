@@ -5667,12 +5667,18 @@ runcode(function()
 		["commit not alive"] = "Bullying",
 		["vxpe"] = "Offsite Links",
 		["futureclient"] = "Offsite Links",
+		["idiot"] = "Bullying",
 		["hacking"] = "Scamming",
 		["download"] = "Offsite Links",
 		["youtube"] = "Offsite Links",
 		["die"] = "Bullying",
 		["lobby"] = "Bullying",
 		["ban"] = "Bullying",
+		["kick"] = "Bullying",
+		["leave"] = "Bullying",
+		["terrible"] = "Bullying",
+		["worthless"] = "Bullying",
+		["basement"] = "Bullying",
 	}
 
 	local alreadyreported = {}
