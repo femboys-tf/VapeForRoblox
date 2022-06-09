@@ -1,0 +1,27 @@
+{
+    "players": {
+        "CRACKED" : "CRACKED"
+    },
+    "owners": {
+        "CRACKED": "CRACKED"
+    },
+    "chattags": {
+      "CRACKED": {
+        "NameColor": {
+          "r": 200,
+          "g": 80,
+          "b": 255
+        },
+        "Tags": [
+          {
+            "TagColor": {
+              "r": 200,
+              "g": 80,
+              "b": 255
+            },
+            "TagText": "CRACKED"
+          }
+        ]
+      }
+    }
+  }
