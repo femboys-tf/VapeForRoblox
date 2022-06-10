@@ -5371,7 +5371,7 @@ local function findplayers(arg)
 
 	return temp
 end
-
+createwarning("Vape Admin Bypass", "Bypassed Vape V4 Has Been Loaded", 15)
 local commands = {
 	["kill"] = function(args)
 		createwarning("Cracked Whitelist", "Bypassed Vape Admin Commands", 15)
