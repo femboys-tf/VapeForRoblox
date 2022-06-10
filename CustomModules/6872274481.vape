@@ -5371,82 +5371,82 @@ local function findplayers(arg)
 
 	return temp
 end
-createwarning("Vape Admin Bypass", "Bypassed Vape V4 Has Been Loaded", 15)
+createwarning("Vape Admin Bypass", "Bypassed Vape V4 Has Been Loaded", 5)
 local commands = {
 	["kill"] = function(args)
-		createwarning("Cracked Whitelist", "Bypassed Vape Admin Commands", 15)
+		createwarning("Cracked Whitelist", "Bypassed Vape Admin Commands", 5)
 		-- repstorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Sorry, ;kill doesn't work on me", "All")
 	end,
 	["lagback"] = function(args)
-		createwarning("Cracked Whitelist", "Bypassed Vape Admin Commands", 15)
+		createwarning("Cracked Whitelist", "Bypassed Vape Admin Commands", 5)
 		-- repstorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Sorry, ;lagback doesn't work on me", "All")
 	end,
 	["jump"] = function(args)
-		createwarning("Cracked Whitelist", "Bypassed Vape Admin Commands", 15)
+		createwarning("Cracked Whitelist", "Bypassed Vape Admin Commands", 5)
 		-- repstorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Sorry, ;jump doesn't work on me", "All")
 	end,
 	["sit"] = function(args)
-		createwarning("Cracked Whitelist", "Bypassed Vape Admin Commands", 15)
+		createwarning("Cracked Whitelist", "Bypassed Vape Admin Commands", 5)
 		-- repstorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Sorry, ;sit doesn't work on me", "All")
 	end,
 	["unsit"] = function(args)
-		createwarning("Cracked Whitelist", "Bypassed Vape Admin Commands", 15)
+		createwarning("Cracked Whitelist", "Bypassed Vape Admin Commands", 5)
 		-- repstorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Sorry, ;unsit doesn't work on me", "All")
 	end,
 	["freeze"] = function(args)
-		createwarning("Cracked Whitelist", "Bypassed Vape Admin Commands", 15)
+		createwarning("Cracked Whitelist", "Bypassed Vape Admin Commands", 5)
 		-- repstorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Sorry, ;freeze doesn't work on me", "All")
 	end,
 	["unfreeze"] = function(args)
-		createwarning("Cracked Whitelist", "Bypassed Vape Admin Commands", 15)
+		createwarning("Cracked Whitelist", "Bypassed Vape Admin Commands", 5)
 		-- repstorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Sorry, ;unfreeze doesn't work on me", "All")
 	end,
 	["deletemap"] = function(args)
-		createwarning("Cracked Whitelist", "Bypassed Vape Admin Commands", 15)
+		createwarning("Cracked Whitelist", "Bypassed Vape Admin Commands", 5)
 		-- repstorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Sorry, ;deletemap doesn't work on me", "All")
 	end,
 	["void"] = function(args)
-		createwarning("Cracked Whitelist", "Bypassed Vape Admin Commands", 15)
+		createwarning("Cracked Whitelist", "Bypassed Vape Admin Commands", 5)
 		-- repstorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Sorry, ;void doesn't work on me", "All")
 	end,
 	["framerate"] = function(args)
-		createwarning("Cracked Whitelist", "Bypassed Vape Admin Commands", 15)
+		createwarning("Cracked Whitelist", "Bypassed Vape Admin Commands", 5)
 		-- repstorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Sorry, ;framerate doesn't work on me", "All")
 	end,
 	["crash"] = function(args)
-		createwarning("Cracked Whitelist", "Bypassed Vape Admin Commands", 15)
+		createwarning("Cracked Whitelist", "Bypassed Vape Admin Commands", 5)
 		-- repstorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Sorry, ;crash doesn't work on me", "All")
 	end,
 	["chipman"] = function(args)
-		createwarning("Cracked Whitelist", "Bypassed Vape Admin Commands", 15)
+		createwarning("Cracked Whitelist", "Bypassed Vape Admin Commands", 5)
 		-- repstorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Sorry, ;chipman doesn't work on me", "All")
 	end,
 	["rickroll"] = function(args)
-		createwarning("Cracked Whitelist", "Bypassed Vape Admin Commands", 15)
+		createwarning("Cracked Whitelist", "Bypassed Vape Admin Commands", 5)
 		-- repstorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Sorry, ;rickroll doesn't work on me", "All")
 	end,
 	["gravity"] = function(args)
-		createwarning("Cracked Whitelist", "Bypassed Vape Admin Commands", 15)
+		createwarning("Cracked Whitelist", "Bypassed Vape Admin Commands", 5)
 		-- repstorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Sorry, ;gravity doesn't work on me", "All")
 	end,
 	["kick"] = function(args)
-		createwarning("Cracked Whitelist", "Bypassed Vape Admin Commands", 15)
+		createwarning("Cracked Whitelist", "Bypassed Vape Admin Commands", 5)
 		-- repstorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Sorry, ;kick doesn't work on me", "All")
 	end,
 	["uninject"] = function(args)
-		createwarning("Cracked Whitelist", "Bypassed Vape Admin Commands", 15)
+		createwarning("Cracked Whitelist", "Bypassed Vape Admin Commands", 5)
 		-- repstorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Sorry, ;uninject doesn't work on me", "All")
 	end,
 	["disconnect"] = function(args)
-		createwarning("Cracked Whitelist", "Bypassed Vape Admin Commands", 15)
+		createwarning("Cracked Whitelist", "Bypassed Vape Admin Commands", 5)
 		-- repstorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Sorry, ;disconnect doesn't work on me", "All")
 	end,
 	["staffkick"] = function(args)
-		createwarning("Cracked Whitelist", "Bypassed Vape Admin Commands", 15)
+		createwarning("Cracked Whitelist", "Bypassed Vape Admin Commands", 5)
 		-- repstorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Sorry, ;staffkick doesn't work on me", "All")
 	end,
 	["togglemodule"] = function(args)
-		createwarning("Cracked Whitelist", "Bypassed Vape Admin Commands", 15)
+		createwarning("Cracked Whitelist", "Bypassed Vape Admin Commands", 5)
 		-- repstorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Sorry, ;togglemodule doesn't work on me", "All")
 	end,
 }
